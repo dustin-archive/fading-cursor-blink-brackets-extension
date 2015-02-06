@@ -1,0 +1,13 @@
+{
+    "name": "dustindowell.fading-cursor-blink",
+    "title": "Fading Cursor Blink",
+    "description": "Fading Cursor Blink",
+    "homepage": "https://github.com/dustindowell22/fading-cursor-blink-brackets-extension",
+    "version": "1.0.0",
+    "author": "Dustin Dowell (https://github.com/dustindowell22)",
+    "license": "MIT",
+    "engines": {
+      "brackets": ">=1.0.0"
+    },
+    "keywords": ["fading", "cursor ", "blink"]
+}
