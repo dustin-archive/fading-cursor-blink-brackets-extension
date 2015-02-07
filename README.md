@@ -1,4 +1,4 @@
-Fading Cursor Blink - 1.0.0
+Fading Cursor Blink - 1.0.1
 =========
 
 
