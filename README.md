@@ -1,6 +1,6 @@
-Fading Cursor Blink - 1.0.1
+Fading Cursor Blink - 1.0.2
 =========
 
 
-## GIF
-![GIF](https://github.com/dustindowell22/fading-cursor-blink-brackets-extension/blob/master/preview.gif)
+## Gif
+![Gif](https://github.com/dustindowell22/fading-cursor-blink-brackets-extension/blob/master/preview.gif)
